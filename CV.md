@@ -75,4 +75,4 @@ https://github.com/topor-tech/professionmap
 http://ats.professionmap.ru
 
 ### GitCTO.space
-Developer performance analytics platform tracking merge request velocity, cycle time, and team WIP — aligned with DORA & DX Core 4 frameworks.
+Developer performance analytics platform tracking merge request velocity, cycle time, and team WIP
